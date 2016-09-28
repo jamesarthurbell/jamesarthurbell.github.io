@@ -2081,7 +2081,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #3C5A9B;
+			border-color: #0074b3;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2562,7 +2562,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #3C5A9B;
+			background-color: #0074b3;
 			box-shadow: none;
 		}
 
@@ -2930,7 +2930,7 @@
 			-ms-transition: opacity 0.35s ease, -ms-transform 0.35s ease;
 			transition: opacity 0.35s ease, transform 0.35s ease;
 			-webkit-overflow-scrolling: touch;
-			background: #3C5A9B;
+			background: #0074b3;
 			border-radius: 5px;
 			display: block;
 			max-width: 100%;
@@ -3364,11 +3364,11 @@
 			}
 
 		.wrapper.spotlight {
-			background-color: #3C5A9B;
+			background-color: #0074b3;
 		}
 
 			.wrapper.spotlight:before, .wrapper.spotlight:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%233C5A9B%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%230074b3%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.spotlight .inner {
